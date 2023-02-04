@@ -42,7 +42,7 @@ if bit == "64bit":
 
  
 
-        rcrack()
+        ALAMIN()
 
  
 
@@ -55,11 +55,10 @@ elif bit == "32bit":
  
 
         os.system('xdg-open https://youtube.com/@teach-alamin')
-  
-  
-  
-         os.system('python ALAMINBRO.py')
 
+ 
+
+        os.system('python ALAMINBRO.py')
       
 
  
