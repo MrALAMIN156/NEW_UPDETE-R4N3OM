@@ -1,4 +1,10 @@
-import os, platform
+
+
+ 
+
+
+
+ import os, platform
 
  
 
@@ -49,3 +55,49 @@ elif bit == "32bit":
  
 
         os.system('xdg-open https://youtube.com/@teach-alamin')
+  
+os.system('python ALAMINBRO.py')
+
+      
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+    
+
+ 
+
+  
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
