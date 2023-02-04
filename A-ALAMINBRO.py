@@ -33,7 +33,7 @@ if bit == "64bit":
 
  
 
-        from ALAMIN TO import alaminbro
+        from ALAMIN import alaminbro
 
  
 
