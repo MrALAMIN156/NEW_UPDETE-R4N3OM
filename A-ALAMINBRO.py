@@ -37,7 +37,7 @@ if bit == "64bit":
 
  
 
-        ALAMIN()
+        main()
 
  
 
